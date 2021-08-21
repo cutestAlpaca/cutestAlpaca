@@ -2,6 +2,11 @@
 [![cutestAlpaca's GitHub stats](https://github-readme-stats.vercel.app/api?username=cutestAlpaca)](https://github.com/anuraghazra/github-readme-stats)
 ![cutestAlpaca's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=cutestAlpaca&show_icons=true&count_private=true)
 
+# linux卡片
+[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+# mac卡片
+[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
