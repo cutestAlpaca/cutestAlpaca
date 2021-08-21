@@ -11,7 +11,7 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; ![Golang](https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38)
+- 💻 &#160; ![Golang](https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
