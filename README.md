@@ -27,7 +27,7 @@
 
 ### 开源项目
 
-- [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
+- [====]()
 
 ### 关于我
 - [技术笔记](https://cutestAlpaca.github.io/)
