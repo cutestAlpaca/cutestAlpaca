@@ -6,7 +6,6 @@
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently learning.
 - 💬 Ask me about Golang, PHP, VUE, Linux and my projects on [alpaca5541@gmail.com](mailto:alpaca5541@gmail.com)
-- ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 技术栈 | Tech Stack
 
