@@ -11,13 +11,15 @@
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=Golang&logoColor=007396)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=FCC624)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
+![macOS](https://img.shields.io/badge/-macOS-333333?style=flat&logo=macOS&logoColor=FF4800)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
