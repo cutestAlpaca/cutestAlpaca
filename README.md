@@ -10,6 +10,7 @@
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=Golang&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FCC624)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=FCC624)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![macOS](https://img.shields.io/badge/-macOS-333333?style=flat&logo=macOS&logoColor=FF4800)
