@@ -3,7 +3,7 @@
 
 ### I'm alpaca
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
+- A Computer Engineering Student. & Open Source enthusiast.
 - 🌱 Currently learning.
 - 💬 Ask me about Golang, PHP, VUE, Linux and my projects on [alpaca5541@gmail.com](mailto:alpaca5541@gmail.com)
 
